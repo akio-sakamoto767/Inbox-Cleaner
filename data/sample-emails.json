@@ -1,0 +1,33 @@
+[
+  {
+    "id": "msg-4f81a",
+    "from": "The Verge <newsletters@theverge.com>",
+    "to": "user@example.com",
+    "subject": "The Verge Weekly: Apple's next move",
+    "body": "This week in tech: Apple is reportedly working on a foldable device.\n\nRead more: https://theverge.com/2026/02/apple-foldable\n\nYou're receiving this because you signed up at theverge.com.\nUnsubscribe: https://theverge.com/unsubscribe?token=abc123\nManage preferences: https://theverge.com/preferences",
+    "headers": {
+      "list-unsubscribe": "<https://theverge.com/unsubscribe?token=abc123>"
+    },
+    "date": "2026-02-20T10:00:00Z"
+  },
+  {
+    "id": "msg-7c209",
+    "from": "Marco Rossi <m.rossi@devteam.io>",
+    "to": "user@example.com",
+    "subject": "Re: API rate limiting",
+    "body": "Hey,\n\nI pushed the fix for the 429 handling. Can you review the PR when you get a chance? No rush.\n\nMarco",
+    "headers": {},
+    "date": "2026-02-22T14:30:00Z"
+  },
+  {
+    "id": "msg-a3e55",
+    "from": "Booking.com <noreply@booking.com>",
+    "to": "user@example.com",
+    "subject": "Last-minute deals near you — up to 40% off",
+    "body": "Don't miss these deals in your area!\n\nBrowse hotels: https://booking.com/deals?ref=email\n\nYou're subscribed to Booking.com deals. To opt out: https://booking.com/email-preferences",
+    "headers": {
+      "list-unsubscribe": "<mailto:unsub-deals@booking.com>"
+    },
+    "date": "2026-02-21T09:15:00Z"
+  }
+]

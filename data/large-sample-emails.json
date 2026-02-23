@@ -1,0 +1,102 @@
+[
+  {
+    "id": "email-1",
+    "from": "TechNews Weekly <news@newsletter.techweekly.com>",
+    "to": "user@example.com",
+    "subject": "Your Weekly Tech Digest - AI Breakthroughs",
+    "body": "Hello! Here's your weekly roundup of tech news...\n\nTo unsubscribe, click here: https://techweekly.com/unsubscribe?id=12345\n\nManage your email preferences at https://techweekly.com/preferences",
+    "headers": {
+      "list-unsubscribe": "<https://techweekly.com/unsubscribe?id=12345>"
+    },
+    "date": "2026-02-20T10:00:00Z"
+  },
+  {
+    "id": "email-2",
+    "from": "Sarah Johnson <sarah.j@company.com>",
+    "to": "user@example.com",
+    "subject": "Re: Project deadline discussion",
+    "body": "Hi,\n\nThanks for your email. I think we can push the deadline to next Friday. Let me know if that works for you.\n\nBest,\nSarah",
+    "headers": {},
+    "date": "2026-02-22T14:30:00Z"
+  },
+  {
+    "id": "email-3",
+    "from": "Marketing Team <promo@mail.shopnow.com>",
+    "to": "user@example.com",
+    "subject": "50% OFF Everything - Limited Time!",
+    "body": "HUGE SALE! Get 50% off all items this weekend only!\n\nShop now: https://shopnow.com/sale\n\nDon't want these emails? Unsubscribe here: https://shopnow.com/optout",
+    "headers": {
+      "list-unsubscribe": "<mailto:unsubscribe@shopnow.com>"
+    },
+    "date": "2026-02-21T09:15:00Z"
+  },
+  {
+    "id": "email-4",
+    "from": "Daily Digest <digest@news.dailyupdate.com>",
+    "to": "user@example.com",
+    "subject": "Your Daily News Digest - February 23",
+    "body": "Good morning! Here are today's top stories:\n\n1. Breaking news...\n2. Technology updates...\n\nTo stop receiving these emails, visit: https://dailyupdate.com/unsubscribe",
+    "headers": {
+      "list-unsubscribe": "<https://dailyupdate.com/unsubscribe>"
+    },
+    "date": "2026-02-23T06:00:00Z"
+  },
+  {
+    "id": "email-5",
+    "from": "John Smith <john@personalmail.com>",
+    "to": "user@example.com",
+    "subject": "Lunch next week?",
+    "body": "Hey! Want to grab lunch next Tuesday? Let me know what works for you.\n\nCheers,\nJohn",
+    "headers": {},
+    "date": "2026-02-22T16:45:00Z"
+  },
+  {
+    "id": "email-6",
+    "from": "Fitness Weekly <updates@mail.fitnessweekly.com>",
+    "to": "user@example.com",
+    "subject": "5 Exercises to Transform Your Body",
+    "body": "This week's fitness tips:\n\n1. Squats for strength\n2. Cardio for endurance\n\nUnsubscribe from our newsletter: https://fitnessweekly.com/optout",
+    "headers": {
+      "list-unsubscribe": "<https://fitnessweekly.com/optout>"
+    },
+    "date": "2026-02-21T08:00:00Z"
+  },
+  {
+    "id": "email-7",
+    "from": "Deals Alert <deals@promo.megastore.com>",
+    "to": "user@example.com",
+    "subject": "Flash Sale: 70% Off Electronics!",
+    "body": "Don't miss out! Limited time offer on all electronics.\n\nShop now: https://megastore.com/flash-sale\n\nTo unsubscribe, click here: https://megastore.com/unsubscribe?user=xyz",
+    "headers": {},
+    "date": "2026-02-22T11:30:00Z"
+  },
+  {
+    "id": "email-8",
+    "from": "Mom <mom@familymail.com>",
+    "to": "user@example.com",
+    "subject": "Don't forget grandma's birthday",
+    "body": "Hi sweetie,\n\nJust a reminder that grandma's birthday is this Saturday. Don't forget to call her!\n\nLove,\nMom",
+    "headers": {},
+    "date": "2026-02-23T09:20:00Z"
+  },
+  {
+    "id": "email-9",
+    "from": "Crypto Insider <news@newsletter.cryptoinsider.io>",
+    "to": "user@example.com",
+    "subject": "Bitcoin Hits New High - Market Analysis",
+    "body": "Breaking: Bitcoin reaches $75,000!\n\nRead our full analysis and market predictions.\n\nManage your subscription preferences or unsubscribe at: https://cryptoinsider.io/preferences",
+    "headers": {
+      "list-unsubscribe": "<https://cryptoinsider.io/unsubscribe>"
+    },
+    "date": "2026-02-22T13:00:00Z"
+  },
+  {
+    "id": "email-10",
+    "from": "Travel Deals <offers@mail.traveldeals.com>",
+    "to": "user@example.com",
+    "subject": "Exclusive: 40% Off Flights to Europe",
+    "body": "Limited time offer! Book your dream European vacation now.\n\nBrowse deals: https://traveldeals.com/europe\n\nIf you wish to stop receiving promotional emails, please visit our unsubscribe page.",
+    "headers": {},
+    "date": "2026-02-21T15:00:00Z"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "msg-4f81a",
+    "from": "The Verge <newsletters@theverge.com>",
+    "to": "user@example.com",
+    "subject": "The Verge Weekly: Apple's next move",
+    "body": "This week in tech: Apple is reportedly working on a foldable device.\n\nRead more: https://theverge.com/2026/02/apple-foldable\n\nYou're receiving this because you signed up at theverge.com.\nUnsubscribe: https://theverge.com/unsubscribe?token=abc123\nManage preferences: https://theverge.com/preferences",
+    "headers": {
+      "list-unsubscribe": "<https://theverge.com/unsubscribe?token=abc123>"
+    },
+    "date": "2026-02-20T10:00:00Z"
+  },
+  {
+    "id": "msg-7c209",
+    "from": "Marco Rossi <m.rossi@devteam.io>",
+    "to": "user@example.com",
+    "subject": "Re: API rate limiting",
+    "body": "Hey,\n\nI pushed the fix for the 429 handling. Can you review the PR when you get a chance? No rush.\n\nMarco",
+    "headers": {},
+    "date": "2026-02-22T14:30:00Z"
+  },
+  {
+    "id": "msg-a3e55",
+    "from": "Booking.com <noreply@booking.com>",
+    "to": "user@example.com",
+    "subject": "Last-minute deals near you — up to 40% off",
+    "body": "Don't miss these deals in your area!\n\nBrowse hotels: https://booking.com/deals?ref=email\n\nYou're subscribed to Booking.com deals. To opt out: https://booking.com/email-preferences",
+    "headers": {
+      "list-unsubscribe": "<mailto:unsub-deals@booking.com>"
+    },
+    "date": "2026-02-21T09:15:00Z"
+  },
+  {
+    "id": "msg-d0917",
+    "from": "Morning Brew <crew@morningbrew.com>",
+    "to": "user@example.com",
+    "subject": "Daily Brew ☕ — Feb 23",
+    "body": "Good morning!\n\nHere's what you need to know today:\n- Markets opened higher after Fed comments\n- EU passes new AI regulation framework\n\nShare the Brew: https://morningbrew.com/refer\n\nUnsubscribe: https://morningbrew.com/unsubscribe?uid=x9f2",
+    "headers": {
+      "list-unsubscribe": "<https://morningbrew.com/unsubscribe?uid=x9f2>"
+    },
+    "date": "2026-02-23T06:00:00Z"
+  },
+  {
+    "id": "msg-e4b33",
+    "from": "Elena Marchetti <elena.m@gmail.com>",
+    "to": "user@example.com",
+    "subject": "Lunch Thursday?",
+    "body": "Hey! Are you free Thursday for lunch? I was thinking that new ramen place on Via Torino.\n\nLet me know!\nElena",
+    "headers": {},
+    "date": "2026-02-22T16:45:00Z"
+  },
+  {
+    "id": "msg-1fa88",
+    "from": "Strava <no-reply@strava.com>",
+    "to": "user@example.com",
+    "subject": "Your weekly progress report",
+    "body": "You ran 23.4 km this week — that's 12% more than last week!\n\nView your stats: https://strava.com/athlete/dashboard\n\nManage email notifications: https://strava.com/settings/email\nUnsubscribe from weekly reports: https://strava.com/email/optout?type=weekly",
+    "headers": {
+      "list-unsubscribe": "<https://strava.com/email/optout?type=weekly>"
+    },
+    "date": "2026-02-21T08:00:00Z"
+  },
+  {
+    "id": "msg-88c41",
+    "from": "AliExpress <noreply@mail.aliexpress.com>",
+    "to": "user@example.com",
+    "subject": "Flash Sale: 70% off electronics — 24h only",
+    "body": "FLASH SALE — 24 HOURS ONLY\n\nTop picks for you:\n- Wireless earbuds $12.99\n- USB-C hub $8.50\n\nShop now: https://aliexpress.com/flash\n\nTo unsubscribe from promotional emails, click here: https://aliexpress.com/email/unsub?u=abc",
+    "headers": {},
+    "date": "2026-02-22T11:30:00Z"
+  },
+  {
+    "id": "msg-c2d07",
+    "from": "Mamma <mamma@libero.it>",
+    "to": "user@example.com",
+    "subject": "Ricordati del compleanno di nonna",
+    "body": "Ciao tesoro,\n\nTi ricordo che sabato è il compleanno della nonna. Chiamala!\n\nBaci,\nMamma",
+    "headers": {},
+    "date": "2026-02-23T09:20:00Z"
+  },
+  {
+    "id": "msg-5e6f2",
+    "from": "Substack <digest@substack.com>",
+    "to": "user@example.com",
+    "subject": "New posts from your subscriptions",
+    "body": "Here's what's new from writers you follow:\n\n- \"Why SQLite is eating the world\" by @techwriter\n- \"Remote work in 2026\" by @futureofwork\n\nRead on Substack: https://substack.com/inbox\n\nManage your subscription preferences or unsubscribe: https://substack.com/settings/notifications",
+    "headers": {
+      "list-unsubscribe": "<https://substack.com/api/unsubscribe?token=xyz>"
+    },
+    "date": "2026-02-22T13:00:00Z"
+  },
+  {
+    "id": "msg-9ab12",
+    "from": "Ryanair <offers@ryanair.com>",
+    "to": "user@example.com",
+    "subject": "Flights from €19.99 — book by midnight",
+    "body": "Escape the cold! Flights from Milan to:\n- Barcelona €19.99\n- Lisbon €24.99\n- Athens €29.99\n\nBook now: https://ryanair.com/offers\n\nIf you no longer wish to receive these emails, please visit our unsubscribe page.",
+    "headers": {},
+    "date": "2026-02-21T15:00:00Z"
+  }
+]
